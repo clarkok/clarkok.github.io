@@ -1,0 +1,3 @@
+[submodule "jQuery.smoothSnap"]
+    path = jQuery.smoothSnap
+    url = git://github.com/clarkok/jQuery.smoothSnap.git
